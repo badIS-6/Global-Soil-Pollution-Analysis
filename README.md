@@ -102,5 +102,5 @@ The project contains VBA procedures for:
 
 
 ## Authors
-Badis Zammouri
-Mohamed Chandoul
+* Badis Zammouri
+* Mohamed Chandoul
