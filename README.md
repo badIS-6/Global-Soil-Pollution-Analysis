@@ -27,7 +27,6 @@ The project uses variables related to:
 * Environmental conditions
 * Demographic information
 
-
 ### 1. Data Cleaning
 The VBA macros are used to:
 * Remove unnecessary columns
