@@ -1,9 +1,6 @@
 # Global Soil Pollution Analysis
-# Soil Pollution Analysis - Excel VBA
 
-## Overview
 This project analyzes a synthetic dataset related to soil pollution and associated diseases.
-
 The dataset includes environmental, agricultural, and demographic variables and is designed to explore relationships between soil contamination and human health outcomes.
 
 The project was developed using Microsoft Excel and VBA and focuses on data cleaning, visualization, statistical analysis, forecasting, and interactive data querying.
